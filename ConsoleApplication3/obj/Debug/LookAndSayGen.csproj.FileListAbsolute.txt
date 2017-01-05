@@ -1,0 +1,6 @@
+C:\Users\Sieyk\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\LookAndSayGen.exe.config
+C:\Users\Sieyk\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\LookAndSayGen.exe
+C:\Users\Sieyk\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\LookAndSayGen.pdb
+C:\Users\Sieyk\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\LookAndSayGen.csprojResolveAssemblyReference.cache
+C:\Users\Sieyk\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\LookAndSayGen.exe
+C:\Users\Sieyk\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\LookAndSayGen.pdb
